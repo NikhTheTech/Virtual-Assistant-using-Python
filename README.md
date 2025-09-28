@@ -42,7 +42,6 @@ David is a Python-based **voice-controlled virtual assistant** designed to make 
 Virtual-Assistant/
 │
 ├── main.py               # Main program (David's brain)
-├── notes.txt             # Stores user notes
 ├── requirements.txt      # Dependencies (to be installed via pip)
 └── README.md             # Project documentation
 ```
