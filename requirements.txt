@@ -1,9 +1,9 @@
-pyttsx3==2.90
+echo "pyttsx3
 SpeechRecognition
 pywhatkit
 wikipedia
-requests==2.31.0
+requests
 GoogleNews
-pandas==1.5.3
+pandas
 pyjokes
-opencv-python==4.5.5.62
+opencv-python" > requirements.txt
